@@ -1,3 +1,6 @@
+no link do video o schema do  mongo ta bem melhor
+
+
 # TypeScript Express Server (TES)
 
 This is a sample server using Express, TypeScript, MongoDB, and Mongoose.
