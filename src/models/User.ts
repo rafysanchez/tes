@@ -6,7 +6,12 @@ const UserSchema: Schema = new Schema({
   firstName: String,
   lastName: String,
   username: String,
-  email: String,
+  email: {
+    type: String,
+    default: '',
+    required: true,
+    unique: true
+  },
   password: String,
   posts: [
     {
