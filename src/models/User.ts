@@ -10,7 +10,8 @@ const UserSchema: Schema = new Schema({
     type: String,
     default: '',
     required: true,
-    unique: true
+    unique: true,
+    lowercase: true
   },
   password: String,
   posts: [
