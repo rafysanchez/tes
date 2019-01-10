@@ -1,3 +1,10 @@
+
+https://www.youtube.com/watch?v=XqbBv1i9Yhc
+
+npm install
+npm start
+
+
 no link do video o schema do  mongo ta bem melhor
 
 
