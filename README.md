@@ -1,3 +1,14 @@
+
+https://www.youtube.com/watch?v=XqbBv1i9Yhc
+
+npm install
+
+npm start
+
+http://localhost:3000/users
+
+http://localhost:3000/posts
+
 no link do video o schema do  mongo ta bem melhor
 
 
